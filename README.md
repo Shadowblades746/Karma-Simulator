@@ -1,4 +1,4 @@
-# Karma Game Module
+# Karma Game
 
 **Karma** is a Haskell-based card game simulation, offering both a basic and advanced set of rules, including special card effects and unique strategy implementations. The game allows for dynamic multiplayer experiences, including AI opponents with various strategic behaviors. Optional rule extensions like **Reverse 8**, **Three 3s**, and **Nine of Clubs** add extra layers of strategy, making it a highly customizable and engaging game.
 
